@@ -200,7 +200,7 @@ h2 {
 
 footer {
     position: flex;
-    width: 100%;
+    width: 78.9%;
     height: 30%;
     background-color: #35427991;
     display: flex;
@@ -219,5 +219,5 @@ footer {
     height: 80%;
     max-width: 600px;
     margin: 0 auto;
-    padding-right: 40%;
+    padding-right: 24%;
 }
